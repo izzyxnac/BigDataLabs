@@ -12,8 +12,6 @@
 - **Installer un cluster Hadoop avec Docker**
 - **Se familiariser avec les commandes HDFS**
 
-![Big Data Labs](https://github.com/izzyxnac/BigDataLabs/blob/main/images/2.png)
-
 ![Big Data Labs](https://github.com/izzyxnac/BigDataLabs/blob/main/images/3.png)
 
 ### Interfaces Web du Cluster
